@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gagan-dk/leetcode/tree/master/0002-add-two-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gagan-dk/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
