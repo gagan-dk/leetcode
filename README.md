@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gagan-dk/leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/gagan-dk/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-dk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/gagan-dk/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/gagan-dk/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/gagan-dk/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-dk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/gagan-dk/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
