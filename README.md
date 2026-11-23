@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gagan-dk/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/gagan-dk/leetcode/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gagan-dk/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/gagan-dk/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gagan-dk/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gagan-dk/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/gagan-dk/leetcode/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/gagan-dk/leetcode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/gagan-dk/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gagan-dk/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
