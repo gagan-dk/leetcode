@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gagan-dk/leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/gagan-dk/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/gagan-dk/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/gagan-dk/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gagan-dk/leetcode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/gagan-dk/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/gagan-dk/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/gagan-dk/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
